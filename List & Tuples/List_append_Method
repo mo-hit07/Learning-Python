@@ -1,0 +1,5 @@
+movies = []
+movies.append(input("Enter ur fav mov: "))
+movies.append(input("Enter ur fav mov: "))
+movies.append(input("Enter ur fav mov: "))
+print(movies)
