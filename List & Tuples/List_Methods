@@ -1,0 +1,7 @@
+student = ["Karan", 95.4, 17, "Delhi"]
+
+student[0]= "Arjun"
+student.reverse()
+student.insert(3, 99.99)
+student.pop(3)
+print(student)
